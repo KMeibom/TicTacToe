@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="1D2F6893-0D80-4570-9612-5F538609D9C8" ModuleId="TicTacToe.UnitTests" />
+  <Module PersistentId="51077E02-A8A8-425B-A48D-2113D480C7E8" ModuleId="TicTacToe.Services" />
+</Modules>

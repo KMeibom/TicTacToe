@@ -1,0 +1,19 @@
+C:\Users\James\Desktop\TddBook\Chatper 4\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.dll
+C:\Users\James\Desktop\TddBook\Chatper 4\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.pdb
+C:\Users\James\Desktop\TddBook\Chatper 4\TicTacToe\TicTacToe.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\TddBook\Chatper 4\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.dll
+C:\Users\James\Desktop\TddBook\Chatper 4\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.pdb
+C:\Users\Stevn\Downloads\Chapter 4\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.dll
+C:\Users\Stevn\Downloads\Chapter 4\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.pdb
+C:\Users\Stevn\Downloads\Chapter 4\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.csprojResolveAssemblyReference.cache
+C:\Users\Stevn\Downloads\Chapter 4\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.dll
+C:\Users\Stevn\Downloads\Chapter 4\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.pdb
+C:\Users\Stevn\Downloads\Chapter 4\TicTacToe\TicTacToe.Services\bin\Debug\nunit.framework.dll
+C:\Users\Stevn\Downloads\Chapter 4\TicTacToe\TicTacToe.Services\bin\Debug\nunit.framework.xml
+C:\Users\Stevn\Documents\Skolebøger\Opgaver\uge 39\Tic tac toe\Chapter 4\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.dll
+C:\Users\Stevn\Documents\Skolebøger\Opgaver\uge 39\Tic tac toe\Chapter 4\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.pdb
+C:\Users\Stevn\Documents\Skolebøger\Opgaver\uge 39\Tic tac toe\Chapter 4\TicTacToe\TicTacToe.Services\bin\Debug\nunit.framework.dll
+C:\Users\Stevn\Documents\Skolebøger\Opgaver\uge 39\Tic tac toe\Chapter 4\TicTacToe\TicTacToe.Services\bin\Debug\nunit.framework.xml
+C:\Users\Stevn\Documents\Skolebøger\Opgaver\uge 39\Tic tac toe\Chapter 4\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.csprojResolveAssemblyReference.cache
+C:\Users\Stevn\Documents\Skolebøger\Opgaver\uge 39\Tic tac toe\Chapter 4\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.dll
+C:\Users\Stevn\Documents\Skolebøger\Opgaver\uge 39\Tic tac toe\Chapter 4\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.pdb
